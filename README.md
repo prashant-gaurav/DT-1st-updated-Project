@@ -27,7 +27,7 @@
 * Run the project( on server)
 
 ## Testing :
-* J unit test case
+* J unit Test Case
 
 
 ## Build Tool :
