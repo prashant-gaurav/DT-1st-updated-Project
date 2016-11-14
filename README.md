@@ -18,7 +18,7 @@
 * H2 Data base
 * Apache tomcat (server)
 
-### Installing :
+#### Installing :
 * Downlode both ShoppingCartfrontEnd1 & ShoppingCartBackend1 & and import in eclipse
 * Connect Database through ApplicationContextConfigFile(ShoppingCartBackEnd)
 * Then perform these opration in eclips
@@ -27,11 +27,11 @@
 * Mavan install
 * Run the project( on server)
 
-### Testing :
+#### Testing :
 * J unit Test Case
 
 
-### Build Tool :
+#### Build Tool :
 * Mavan
 
 
