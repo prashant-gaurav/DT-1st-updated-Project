@@ -25,7 +25,7 @@
 * Mava claen 
 * Manan compile
 * Mavan install
-* Run the project
+* Run the project (on server)
 
 #### Testing :
 * J unit Test Case
