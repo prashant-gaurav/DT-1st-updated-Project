@@ -1,7 +1,7 @@
 # Dt-1st-ProjectShoppingCart
 * E-commerce websites for bike internet Marketing. Website name is BURNOUT. Through this website seller can sell and customer can buy bikes easily. In this site two login are there user and admin, where admin can edit the product and add the new products and user can view the description of the products and they can buy the products.
 
-#### Technologies
+#### Technologies :
 * JAVA
 * J2EE
 * HTML
@@ -27,11 +27,11 @@
 * Mavan install
 * Run the project( on server)
 
-## Testing :
+### Testing :
 * J unit Test Case
 
 
-## Build Tool :
+### Build Tool :
 * Mavan
 
 
